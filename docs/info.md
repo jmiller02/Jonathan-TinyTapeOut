@@ -17,5 +17,5 @@ in0 and in1 are connected to the or(out1) and xor(out0). in2 and in3 are connect
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
 This project uses a 7 seg display, but any indicator will work
+
